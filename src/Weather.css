@@ -29,6 +29,7 @@
     margin-right: 10px;
     margin-top: 5px;
     display: inline-block;
+    position: relative;
 }
 
 
@@ -39,6 +40,7 @@
     line-height: 64px;
     font-weight: 400;
     display: inline-block;
+    position: relative;
 }
 
 .Weather .unit {
