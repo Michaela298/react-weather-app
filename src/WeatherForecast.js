@@ -46,7 +46,7 @@ export default function WeatherForecast(props) {
         );
 
     } else {
-        loaded();
+        load();
 
     return null;
   }
